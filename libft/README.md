@@ -1,12 +1,15 @@
-📚 Libft – 42 Barcelona (ES)
+📚 Libft – 42 Barcelona
 
-Libft es el primer proyecto del currículo de 42 Barcelona. Consiste en la creación de una biblioteca personal en lenguaje C, que reimplementa funciones esenciales de la librería estándar y añade utilidades adicionales que serán reutilizadas en proyectos posteriores.
-El objetivo principal es comprender en profundidad el funcionamiento interno del lenguaje C, especialmente el manejo de memoria, punteros, strings y estructuras de datos como las listas enlazadas. Todas las funciones se desarrollan respetando la Norminette y las restricciones del proyecto.
-Esta biblioteca sirve como base técnica para el resto del cursus, fomentando un código modular, reutilizable y eficiente.
+📖 Descripción (ES)
+
+Libft es el primer proyecto del currículo de 42 Barcelona. Su objetivo es crear una biblioteca personal en lenguaje C, reimplementando funciones básicas de la librería estándar y añadiendo funciones adicionales que serán utilizadas en proyectos posteriores del cursus.
+Este proyecto permite adquirir una comprensión sólida de los fundamentos del lenguaje C, incluyendo el manejo de memoria, punteros, strings y estructuras de datos como las listas enlazadas. Todas las funciones están desarrolladas siguiendo la Norminette y las reglas del proyecto.
+Libft se convierte en una herramienta esencial que servirá como base para el desarrollo de proyectos más avanzados dentro del campus.
 
 
-📚 Libft – 42 Barcelona (EN)
 
-Libft is the first project of the 42 Barcelona curriculum. It consists of creating a personal library in C, reimplementing essential standard library functions and adding extra utilities that will be reused in future projects.
-The main goal is to gain a deep understanding of how the C language works, especially memory management, pointers, string manipulation, and basic data structures such as linked lists. All functions are developed following the Norminette and project constraints.
-This library acts as a technical foundation for the rest of the cursus, encouraging modular, reusable, and efficient code.
+📖 Description (EN)
+
+Libft is the first project of the 42 Barcelona curriculum. Its goal is to create a personal library in C, reimplementing basic standard library functions and adding extra utilities that will be reused in future projects.
+This project helps build a strong understanding of the C language fundamentals, including memory management, pointers, string manipulation, and basic data structures such as linked lists. All functions are written following the Norminette and project rules.
+Libft becomes an essential tool and a foundation for more advanced projects throughout the cursus.
